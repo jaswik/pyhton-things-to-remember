@@ -1,0 +1,23 @@
+Python functions and codes 
+
+
+if(end with : for continuation)
+Else continue with :
+Sep’’ used for deleting spaces
+End’’ used to print result in one line
+from __future__ import division (used for “for i in”codes)
+.strip is used to remove special characters or spaces and a the like
+.split is used to make it a list 
+(*) is used to extract contents of a variable etc
+If else can be used in multiples based on the block coordination
+Return needs:(returns to the start of the code unless other coordinates are mentioned)
+% can be used in coordination with ==(for equals to)or != for not equals to 
+Sort makes the list in ascending order(there is a way to make in descending order s well look it up when the time comes)
+Set makes the list into one object the order is random unless there is some other command influence
+You can use [=/-n] in sorted lists to select the number you want 
+Map can be used to change the quality of a variable
+Unless mentioned it is considered a float value in python 3 int command can be used to make sure it is an int value/command
+For(int),and(int),is in(int),range command(can be used identify range of numbers)(maybe you can look up how to manipulate range function for negative numbers and for other ways of using it,
+
+
+
